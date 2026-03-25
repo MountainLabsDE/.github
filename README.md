@@ -1,6 +1,3 @@
-Here’s a more **enterprise-focused version** of your GitHub Organization README with **professional badges, stronger positioning, and credibility signals**:
-
----
 
 # 🏔️ MountainLabs UG
 
